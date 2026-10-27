@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "paths": {
+      "@circle-assets/*": ["./app/assets/*"],
+      "@lib/*": ["./app/javascript/lib/*"]
+    }
+  },
+  "include": ["./app/javascript/**/*"]
+}
